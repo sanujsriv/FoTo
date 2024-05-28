@@ -2,7 +2,7 @@
 
 FoTo is a novel targeted visual topic model which can extract and visualize topics and documents relevant to targeted aspects for focused analysis.
 
-Link to the paper :- https://aclanthology.org/2024.lrec-main.653/
+Link to the paper:- https://aclanthology.org/2024.lrec-main.653/
 
 # Preprocessing
 The scripts used for preprocessing the data can be found in the folder "preprocessing".
@@ -31,9 +31,9 @@ python3 run_script_FoTo.py --data_name bbc --queryset 1 --num_topic 10
 <This script will run FoTo on bbc dataset with 10 topics for the first query> <br/>
 
 # Visualizations
-Here is an example visualization produced by FoTo for  - <br/>
+Here is an example visualization produced by FoTo for searchsnippet - <br/>
 
-![ssnip_vis](/visualizations/main_visualization_FoTo_example_searchsnippet.png)
+![ssnip_vis](/visualization/main_visualization_FoTo_example_searchsnippet.png)
 
 # Citation 
 ```
