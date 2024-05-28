@@ -31,7 +31,9 @@ python3 run_script_FoTo.py --data_name bbc --queryset 1 --num_topic 10
 <This script will run FoTo on bbc dataset with 10 topics for the first query> <br/>
 
 # Visualizations
-Here is an example visualization produced by FoTo for searchsnippet - <br/>
+Here is an example visualization produced by FoTo of searchsnippet for query {sporting, athlete, racing}; (left) visualization of SEARCHSNIPPET
+by FoTo; (right) the corresponding document relevance density as per the aspects; black asterisks
+indicate keyword locations - <br/>
 
 ![ssnip_vis](/visualization/main_visualization_FoTo_example_searchsnippet.png)
 
