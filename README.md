@@ -33,8 +33,7 @@ python3 run_script_FoTo.py --data_name bbc --queryset 1 --num_topic 10
 # Visualizations
 Here is an example visualization produced by FoTo for  - <br/>
 
-![ssnip_vis](/visualizations/searchsnippet_WTM.png)
-![ssnip_label](/visualizations/searchsnippet_WTM_label.png)
+![ssnip_vis](/visualizations/main_visualization_FoTo_example_searchsnippet.png)
 
 # Citation 
 ```
