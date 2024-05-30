@@ -2,7 +2,7 @@
 
 FoTo is a novel targeted visual topic model which can extract and visualize topics and documents relevant to targeted aspects for focused analysis.
 
-Link to the paper:- https://aclanthology.org/2024.lrec-main.653/
+Link to the paper:- <a href="https://www.researchgate.net/publication/380905623_FoTo_Targeted_Visual_Topic_Modeling_for_Focused_Analysis_of_Short_Texts" target="_foto1"> Link1</a><break><a href="https://aclanthology.org/2024.lrec-main.653.pdf" target="_foto2"> Link2 </a>
 
 # Preprocessing
 The scripts used for preprocessing the data can be found in the folder "preprocessing".
