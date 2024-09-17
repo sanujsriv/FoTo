@@ -10,12 +10,6 @@ The scripts used for preprocessing the data can be found in the folder "preproce
 ## Datasets
 The preprocessed example dataset can be found in the "content" folder. It follows the directory structure - content/data_{dataname}/short/**.pkl**. 
 
-## Data Preprocessing
-If you want to run WTM on your own dataset you can follow the script for preprocessing i.e. **preprocessing.py** or use your own. It is recommended to follow the preprocessing steps given in the **preprocessing.py**
-
-## Generating Embeddings
-WTM can also run on generated embeddings. It uses *skipgram* technique by default to generate embeddings.The script for generating the embeddings could be found in the **preprocessing.py**. You can either follow that or generate your own embeddings.
-
 # Running FoTo
 You can directly pass *bbc* to run FoTo on bbc dataset.
 ```  
