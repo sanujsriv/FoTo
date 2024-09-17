@@ -1,0 +1,25 @@
+['private', 'bank', 'debt']
+
+google : [array(['private', 'public', 'sector', 'commercial', 'taxpayer',
+       'corporate', 'government', 'owned', 'small', 'local', 'personal',
+       'property', 'jet'], dtype='<U14'), array(['bank', 'banking', 'lender', 'banker', 'mortgage', 'insurer',
+       'loan', 'financial', 'citigroup', 'credit', 'currency', 'barclays',
+       'capital'], dtype='<U14'), array(['debt', 'creditor', 'loan', 'mortgage', 'credit', 'financial',
+       'finance', 'cash', 'bankruptcy', 'deficit', 'lender', 'pension',
+       'bond'], dtype='<U14')]
+
+sg_cosine : [array(['private', 'public', 'sector', 'loan', 'firm', 'phone',
+       'government', 'jet', 'island', 'profit', 'detention', 'bush',
+       'property'], dtype='<U14'), array(['bank', 'loan', 'banking', 'deutsche', 'regulator', 'financial',
+       'credit', 'lender', 'export', 'mortgage', 'debt', 'import',
+       'payment'], dtype='<U14'), array(['debt', 'loan', 'credit', 'tax', 'mortgage', 'creditor', 'payment',
+       'financial', 'crisis', 'bank', 'billion', 'pay', '6bn'],
+      dtype='<U14')]
+
+sg_euclidean : [array(['private', 'year', 'time', 'state', 'president', 'company',
+       'people', 'public', 'call', 'work', 'thought', 'help', 'plan'],
+      dtype='<U14'), array(['bank', 'company', 'time', 'big', 'won', 'year', 'america', 'help',
+       'money', 'report', 'thing', 'country', 'people'], dtype='<U14'), array(['debt', 'help', 'problem', 'plan', 'pay', 'time', 'year', 'state',
+       'question', 'student', 'business', 'company', 'credit'],
+      dtype='<U14')]
+

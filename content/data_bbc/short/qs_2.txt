@@ -1,0 +1,19 @@
+['law', 'immigration']
+
+google : [array(['law', 'constitution', 'rule', 'policy', 'bill', 'legal', 'ruling',
+       'code', 'criminal', 'sue', 'immigration', 'justice', 'lawyer'],
+      dtype='<U14'), array(['immigration', 'deport', 'citizenship', 'visa', 'asylum',
+       'passport', 'border', 'amnesty', 'detention', 'law', 'federal',
+       'political', 'citizen'], dtype='<U14')]
+
+sg_cosine : [array(['law', 'federal', 'state', 'illegal', 'immigration', 'ruling',
+       'voter', 'rule', 'legal', 'court', 'constitution', 'gun', 'lawyer'],
+      dtype='<U14'), array(['immigration', 'reform', 'policy', 'illegal', 'border', 'law',
+       'democrat', 'ban', 'muslim', 'asylum', 'president', 'executive',
+       'conservative'], dtype='<U14')]
+
+sg_euclidean : [array(['law', 'state', 'year', 'time', 'people', 'president', 'life',
+       'thing', 'help', 'day', 'doe', 'won', 'rule'], dtype='<U14'), array(['immigration', 'president', 'policy', 'law', 'people', 'country',
+       'time', 'american', 'plan', 'democrat', 'work', 'state', 'help'],
+      dtype='<U14')]
+

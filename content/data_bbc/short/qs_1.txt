@@ -1,0 +1,20 @@
+['sector', 'corporate']
+
+google : [array(['sector', 'industry', 'economy', 'market', 'investment',
+       'economic', 'banking', 'telecom', 'government', 'slowdown',
+       'industrial', 'growth', 'recession'], dtype='<U14'), array(['corporate', 'business', 'finance', 'financial', 'consumer',
+       'global', 'company', 'management', 'retail', 'private',
+       'commercial', 'banking', 'investor'], dtype='<U14')]
+
+sg_cosine : [array(['sector', 'market', 'public', 'financial', 'private', 'finance',
+       'industry', 'innovation', 'investor', 'government', 'company',
+       'stock', 'economic'], dtype='<U14'), array(['corporate', 'america', 'company', 'profit', 'democrat',
+       'employee', 'executive', 'shareholder', 'worker', 'customer',
+       'tax', 'annual', 'investor'], dtype='<U14')]
+
+sg_euclidean : [array(['sector', 'public', 'company', 'market', 'country', 'government',
+       'industry', 'work', 'financial', 'business', 'health', 'year',
+       'president'], dtype='<U14'), array(['corporate', 'america', 'company', 'people', 'time', 'year',
+       'american', 'president', 'good', 'work', 'long', 'state', 'help'],
+      dtype='<U14')]
+

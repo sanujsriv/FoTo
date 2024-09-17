@@ -1,0 +1,26 @@
+['administration', 'policy', 'public']
+
+google : [array(['administration', 'government', 'policy', 'reform', 'commission',
+       'plan', 'proposal', 'federal', 'authority', 'public', 'budget',
+       'department', 'economic'], dtype='<U14'), array(['policy', 'law', 'administration', 'plan', 'proposal', 'reform',
+       'rule', 'decision', 'governing', 'approach', 'government',
+       'politics', 'regulation'], dtype='<U14'), array(['public', 'private', 'taxpayer', 'government', 'general', 'local',
+       'national', 'community', 'corporate', 'health', 'administration',
+       'council', 'federal'], dtype='<U14')]
+
+sg_cosine : [array(['administration', 'president', 'federal', 'policy', 'government',
+       'department', 'official', 'bush', 'agency', 'democrat',
+       'secretary', 'drug', 'plan'], dtype='<U14'), array(['policy', 'foreign', 'economic', 'immigration', 'administration',
+       'federal', 'public', 'reform', 'president', 'issue', 'government',
+       'candidate', 'politics'], dtype='<U14'), array(['public', 'health', 'sector', 'policy', 'private', 'government',
+       'school', 'service', 'general', 'education', 'library', 'servant',
+       'official'], dtype='<U14')]
+
+sg_euclidean : [array(['administration', 'president', 'state', 'plan', 'year',
+       'government', 'time', 'report', 'official', 'people', 'policy',
+       'help', 'won'], dtype='<U14'), array(['policy', 'president', 'time', 'people', 'american', 'year',
+       'state', 'america', 'country', 'company', 'day', 'work', 'foreign'],
+      dtype='<U14'), array(['public', 'health', 'time', 'year', 'people', 'help', 'work',
+       'state', 'good', 'school', 'president', 'american', 'place'],
+      dtype='<U14')]
+
